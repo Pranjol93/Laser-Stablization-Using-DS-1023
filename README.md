@@ -1,13 +1,13 @@
-# Laser-Stablization-Using-DS-1023
+# Laser-Stablization-Using-ML
 Built a Raspberry Pi prototype to measure flashlamp-pumped laser energy stability and applied ML to reduce noise.
 
-Objective
+# Objective
 The primary goal was to reduce the standard deviation of laser output energy, thereby increasing the number of usable laser shots for HED applications such as laser-plasma interactions, particle accelerators, and extreme material states. A secondary aim was to automate the trigger-based data acquisition process for experimental diagnostics and control system verification.
 
-Problem
+# Problem
 High Energy Density (HED) applications are extremely sensitive to laser parameters. The current Nd:YAG pump laser, which supplies optical energy to the Ti:Sapphire amplifier, exhibits energy fluctuations that degrade stability.
 
-Stabilization Methodology
+# Stabilization Methodology
 The stabilization of gain was achieved by implementing a delay stabilization mechanism:
 
 Slightly adjusting the triggering time of pump lasers using a delay circuit to ensure consistent gain decay before each shot.
