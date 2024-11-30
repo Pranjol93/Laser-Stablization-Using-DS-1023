@@ -8,7 +8,7 @@ The primary goal was to reduce the standard deviation of laser output energy, th
 High Energy Density (HED) applications are extremely sensitive to laser parameters. The current Nd:YAG pump laser, which supplies optical energy to the Ti:Sapphire amplifier, exhibits energy fluctuations that degrade stability.
 
 # Skills:
-python, Matlab, linux, Circuit Design, Oscilloscope, Signal Generator
+python, Matlab, linux, Circuit Design, Oscilloscope, Signal Generator, Raspberry Pi
 
 # Stabilization Methodology
 The stabilization of gain was achieved by implementing a delay stabilization mechanism:
